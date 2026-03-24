@@ -1,0 +1,6 @@
+{
+  "zelenograd_autofarm": {
+    "enabled": true,
+    "min_version": "1.0"
+  }
+}
